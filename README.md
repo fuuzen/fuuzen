@@ -67,4 +67,4 @@
 <br/>
 
 ## Github Stats
-<div style="flex"><img src="https://github-readme-stats.vercel.app/api?username=fuuzen&show_icons=true&count_private=true&hide_border=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuuzen&layout=compact"></div>  
+<div style="display: flex; justify-content: space-around; align-items: center; height: 100px; border: 1px solid #ccc;"><img src="https://github-readme-stats.vercel.app/api?username=fuuzen&show_icons=true&count_private=true&hide_border=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuuzen&layout=compact"></div>  
