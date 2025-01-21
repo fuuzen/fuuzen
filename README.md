@@ -2,16 +2,12 @@
 ![](https://count.getloli.com/@fuuzen?name=fuuzen&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&dar)
 **visitor.**
 
-
 <div align="center">I'm fuuzen, an undergraduate student majoring in computer science in Sun Yat-Sen University.</div>  
 
-<br/>  
-
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Mostly used
 <div align="center">  
@@ -35,8 +31,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Used but not proficient
 <div align="center">  
 <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
@@ -53,8 +47,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Commonly used
 <div align="center">  
@@ -75,4 +67,4 @@
 <br/>
 
 ## Github Stats
-<div style="flex"><img src="https://github-readme-stats.vercel.app/api?username=fuuzen&show_icons=true&count_private=true&hide_border=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuuzen&layout=pie"></div>  
+<div style="flex"><img src="https://github-readme-stats.vercel.app/api?username=fuuzen&show_icons=true&count_private=true&hide_border=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuuzen&layout=compact"></div>  
